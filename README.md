@@ -1,0 +1,2 @@
+You may also make use of information from neighboring phones to aid your estimation, as many routes may be represented by multiple phones.
+In order to encourage the development of a general GNSS positioning algorithm, in-phone GPS chipset locations will not be provided, as they are derived from a manufacturer proprietary algorithm that varies by phone model and other factors.
